@@ -84,8 +84,8 @@ export default function Footer() {
 
   const logoImgStyle = {
     // scale image so its height exactly matches the wrapper height
-    height: "140%",
-    width: "140",
+    height: "100%",
+    width: "auto",
     display: "block",
     objectFit: "cover",
     objectPosition: "50% 60%", // tweak vertical focus if needed (e.g. show more/less bottom)
