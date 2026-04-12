@@ -84,8 +84,8 @@ export default function Footer() {
 
   const logoImgStyle = {
     // scale image so its height exactly matches the wrapper height
-    height: "100%",
-    width: "auto",
+    height: "140%",
+    width: "140",
     display: "block",
     objectFit: "cover",
     objectPosition: "50% 60%", // tweak vertical focus if needed (e.g. show more/less bottom)
@@ -213,7 +213,7 @@ export default function Footer() {
           </div>
 
           <div style={bottomCenterStyle}>
-            © 2026 KEYMUS ECOMMERCE. All Rights Reserved.
+            © 2026 DIGITAL BLITZ. All Rights Reserved.
           </div>
         </div>
       </div>
