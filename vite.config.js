@@ -18,7 +18,7 @@ export default defineConfig({
   server: {
     proxy: {
       "/api": {
-        target: "https://keymuse-backend.onrender.com",
+        target: "https://digitalblits-admin.onrender.com",
         changeOrigin: true,
         secure: false,
       },
