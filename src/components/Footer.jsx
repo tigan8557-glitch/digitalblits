@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 // logo to place in footer (square Keymus file)
-import logo from "../assets/images/header/logoz.png";
+import logo from "../assets/images/header/loggo.png";
 import chatIcon from "../assets/images/dashboard/chat-DWOAIdKh.png";
 import CustomerServiceModal from "./CustomerServiceModal.jsx";
 
