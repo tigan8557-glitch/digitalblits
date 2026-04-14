@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import csImage from "../assets/images/CS-Keymus.png";
+import csImage from "../assets/images/Digital Cs.png";
 import { useSettings } from "../context/SettingsContext";
 
 export default function CustomerServiceModal({ open, onClose }) {
