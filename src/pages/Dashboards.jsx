@@ -488,7 +488,7 @@ export default function Dashboards() {
 
           <div className="cred-box">
             <span className="tier">{tierLabel} ★</span>
-            <span>Credibility: <b>{creditScore}</b></span>
+            <span>Credibility: <b>{creditScore}%</b></span>
           </div>
 
         </div>
